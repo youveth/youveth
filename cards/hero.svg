@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="300" viewBox="0 0 960 300" role="img" aria-labelledby="title desc">
+  <title id="title">Youcef — developer profile</title>
+  <desc id="desc">A dark midnight-blue profile card with animated mint and blue accents.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#101827"/><stop offset="1" stop-color="#17283B"/></linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#65C8FF"/><stop offset="1" stop-color="#79D8B2"/></linearGradient>
+    <style>
+      .name{font:700 54px 'Arial',sans-serif;letter-spacing:2px;fill:#F1F5FB}
+      .sub{font:16px 'Arial',sans-serif;letter-spacing:3px;fill:#A9BCD1}
+      .small{font:12px 'Arial',sans-serif;letter-spacing:2px;fill:#79D8B2}
+      .cursor{animation:blink 1s steps(2,start) infinite}
+      .orb{animation:float 5s ease-in-out infinite;transform-origin:center}
+      .line{stroke-dasharray:8 12;animation:flow 12s linear infinite}
+      @keyframes blink{to{opacity:0}}
+      @keyframes float{50%{transform:translateY(-9px)}}
+      @keyframes flow{to{stroke-dashoffset:-200}}
+      @media(prefers-reduced-motion:reduce){.cursor,.orb,.line{animation:none}}
+    </style>
+  </defs>
+  <rect width="960" height="300" rx="24" fill="url(#bg)"/>
+  <circle cx="820" cy="78" r="110" fill="#2D7192" opacity=".13" class="orb"/>
+  <circle cx="860" cy="220" r="70" fill="#5BC6A3" opacity=".09" class="orb"/>
+  <path d="M0 238 C180 190 260 290 430 232 S720 190 960 236" fill="none" stroke="url(#glow)" stroke-width="2" opacity=".55" class="line"/>
+  <rect x="54" y="52" width="5" height="174" rx="3" fill="url(#glow)"/>
+  <text x="86" y="92" class="small">PERSONAL DEVELOPER SPACE / 2026</text>
+  <text x="82" y="158" class="name">YOUCEF<tspan class="cursor" fill="#79D8B2">_</tspan></text>
+  <text x="86" y="196" class="sub">BUILD  ·  EXPLORE  ·  LEARN</text>
+  <text x="86" y="254" class="small">BUILDING USEFUL THINGS WITH CODE</text>
+  <g transform="translate(770 128)">
+    <circle r="48" fill="#1C3448" stroke="#3E7895" stroke-width="1.5"/>
+    <path d="M-20 -8 L-34 0 L-20 8 M20 -8 L34 0 L20 8 M7 -23 L-7 23" fill="none" stroke="#79D8B2" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="39" cy="-39" r="5" fill="#65C8FF"/>
+  </g>
+</svg>
