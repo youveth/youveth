@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="250" viewBox="0 0 900 250" role="img" aria-labelledby="title desc">
+<title id="title">EXPLORE</title><desc id="desc">Exploring software, AI and automation.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101b35"/><stop offset="1" stop-color="#20264b"/></linearGradient><linearGradient id="line"><stop stop-color="#a78bfa"/><stop offset="1" stop-color="#70d6ff"/></linearGradient></defs>
+<rect x="2" y="2" width="896" height="246" rx="24" fill="url(#bg)" stroke="#45416f" stroke-width="2"/>
+<circle cx="760" cy="115" r="70" fill="none" stroke="#a78bfa" stroke-width="2" opacity=".35"><animate attributeName="r" values="60;76;60" dur="6s" repeatCount="indefinite"/></circle>
+<circle cx="760" cy="115" r="42" fill="none" stroke="#70d6ff" stroke-width="2" opacity=".5"/><path d="M760 35v160M680 115h160M704 59l112 112M816 59L704 171" stroke="#a78bfa" opacity=".35"/>
+<circle cx="760" cy="115" r="8" fill="#a78bfa"><animate attributeName="opacity" values=".4;1;.4" dur="2s" repeatCount="indefinite"/></circle>
+<text x="55" y="92" fill="#b9a5ff" font-family="Arial,sans-serif" font-size="18" letter-spacing="5">02 / DISCOVER</text>
+<text x="55" y="151" fill="#f1f5ff" font-family="Arial,sans-serif" font-size="48" font-weight="700" letter-spacing="3">EXPLORE</text>
+<text x="58" y="190" fill="#b9b8d8" font-family="Arial,sans-serif" font-size="20">Software · AI · Automation</text>
+<path d="M58 215h190" stroke="#a78bfa" stroke-width="3" stroke-linecap="round"><animate attributeName="stroke-dasharray" values="0 190;190 190" dur="3.5s" repeatCount="indefinite"/></path>
+</svg>
