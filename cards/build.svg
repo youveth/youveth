@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="250" viewBox="0 0 900 250" role="img" aria-labelledby="title desc">
+<title id="title">BUILD</title><desc id="desc">Building useful projects with code.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101b35"/><stop offset="1" stop-color="#172d4b"/></linearGradient><linearGradient id="line"><stop stop-color="#70d6ff"/><stop offset="1" stop-color="#a78bfa"/></linearGradient></defs>
+<rect x="2" y="2" width="896" height="246" rx="24" fill="url(#bg)" stroke="#344b70" stroke-width="2"/>
+<circle cx="760" cy="75" r="68" fill="#70d6ff" opacity=".06"><animate attributeName="r" values="62;76;62" dur="5s" repeatCount="indefinite"/></circle>
+<path d="M660 170h160M680 190h110" stroke="#70d6ff" stroke-width="3" opacity=".35" stroke-linecap="round"/>
+<g fill="none" stroke="url(#line)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" transform="translate(700 75)"><path d="M-24 -25L-52 0l28 25M24 -25L52 0 24 25M8 -36L-8 36"/></g>
+<text x="55" y="92" fill="#70d6ff" font-family="Arial,sans-serif" font-size="18" letter-spacing="5">01 / CREATE</text>
+<text x="55" y="151" fill="#f1f5ff" font-family="Arial,sans-serif" font-size="48" font-weight="700" letter-spacing="3">BUILD</text>
+<text x="58" y="190" fill="#aabbd5" font-family="Arial,sans-serif" font-size="20">Turning ideas into useful tools.</text>
+<path d="M58 215h190" stroke="#70d6ff" stroke-width="3" stroke-linecap="round"><animate attributeName="stroke-dasharray" values="0 190;190 190" dur="3s" repeatCount="indefinite"/></path>
+</svg>
