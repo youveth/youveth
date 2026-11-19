@@ -10,6 +10,12 @@
 
 ---
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/youveth/youveth/main/cards/build.svg" alt="BUILD — Create useful tools" width="32%" />
+  <img src="https://raw.githubusercontent.com/youveth/youveth/main/cards/explore.svg" alt="EXPLORE — Software, AI and automation" width="32%" />
+  <img src="https://raw.githubusercontent.com/youveth/youveth/main/cards/learn.svg" alt="LEARN — Python and web development" width="32%" />
+</div>
+
 ### ✦ BUILD
 I work on small projects that turn ideas into useful tools.
 
