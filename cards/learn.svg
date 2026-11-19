@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="250" viewBox="0 0 900 250" role="img" aria-labelledby="title desc">
+<title id="title">LEARN</title><desc id="desc">Learning Python and web development.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101b35"/><stop offset="1" stop-color="#123b46"/></linearGradient><linearGradient id="line"><stop stop-color="#74e0bd"/><stop offset="1" stop-color="#70d6ff"/></linearGradient></defs>
+<rect x="2" y="2" width="896" height="246" rx="24" fill="url(#bg)" stroke="#315f66" stroke-width="2"/>
+<path d="M700 160c35-90 80-90 120 0" fill="none" stroke="#74e0bd" stroke-width="3" opacity=".4"><animate attributeName="stroke-dasharray" values="0 220;220 220" dur="4s" repeatCount="indefinite"/></path>
+<g transform="translate(760 105)" fill="none" stroke="url(#line)" stroke-width="4" stroke-linecap="round"><path d="M-38 -20h76v58h-76z"/><path d="M-22 -3l-12 12 12 12M22 -3l12 12-12 12M8 -8L-8 28"/></g>
+<text x="55" y="92" fill="#74e0bd" font-family="Arial,sans-serif" font-size="18" letter-spacing="5">03 / GROW</text>
+<text x="55" y="151" fill="#f1f5ff" font-family="Arial,sans-serif" font-size="48" font-weight="700" letter-spacing="3">LEARN</text>
+<text x="58" y="190" fill="#a9c9c9" font-family="Arial,sans-serif" font-size="20">Python · Web development · More</text>
+<path d="M58 215h190" stroke="#74e0bd" stroke-width="3" stroke-linecap="round"><animate attributeName="stroke-dasharray" values="0 190;190 190" dur="4.5s" repeatCount="indefinite"/></path>
+</svg>
